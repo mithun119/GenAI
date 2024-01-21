@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cN+yJU/iWc4oEUHG27npx6IilAz4vUy27SztcLeuRL9SyLg44Hsd9ehYWLKPSOkqW6wxuSnpeAmhQ3zYZQ8OKQ==",
+  "dgSpecHash": "vY684uXWE31Utfzr0Yx98ioOQDS2LOLw+/FClC4S9ztSoVZrAO/z7vl9ufdCG7cIHJc5hwTufCvE3wZILO4+Lg==",
   "success": true,
   "projectFilePath": "C:\\Mithun\\Internal Project\\AzureAI\\GenAI\\Labfiles\\06-translate-text\\C-Sharp\\text-translation\\translate_text.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\azure.ai.translation.text\\1.0.0-beta.1\\azure.ai.translation.text.1.0.0-beta.1.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\azure.core\\1.31.0\\azure.core.1.31.0.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
@@ -12,7 +15,13 @@
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
-    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

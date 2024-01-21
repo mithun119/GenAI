@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h9LWbm44Wk/VEQGyu6nOCpzsZsbxCX0ALKrYmWqbJBhQHSnslNR+C4JRMkQRuGmCLL/sgCQ4S5a2pTbHSYTIgw==",
+  "dgSpecHash": "wW3l3JyMBYMcCQkbSc92QwQC3JzLwnGlPvdPRUj4JocOmpTaEggov4j95RV9hLCc+w+tp+y8A1Hdx5mvqTbNNw==",
   "success": true,
   "projectFilePath": "C:\\Mithun\\Internal Project\\AzureAI\\GenAI\\Labfiles\\03-language\\C-Sharp\\clock-client\\clock_client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\azure.ai.language.conversations\\1.0.0\\azure.ai.language.conversations.1.0.0.nupkg.sha512",
+    "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\azure.ai.language.conversations\\1.1.0\\azure.ai.language.conversations.1.1.0.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mithun.k.bobade\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",

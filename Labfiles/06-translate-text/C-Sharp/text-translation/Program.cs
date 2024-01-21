@@ -6,6 +6,9 @@ using System.Text;
 using System.Net.Http;
 using Microsoft.Extensions.Configuration;
 using System.Threading.Tasks;
+ // import namespaces
+ using Azure;
+ using Azure.AI.Translation.Text;
 
 namespace translate_text
 {
